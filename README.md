@@ -95,5 +95,6 @@ services:
     ports:
       - 1521:1521
       - 28080:8080
-# docker-compose up -d
-# docker-compose down/stop/start
+      
+docker-compose up -d
+docker-compose down/stop/start
