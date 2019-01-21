@@ -1,3 +1,4 @@
+所有的脚本来自oracle-images: https://github.com/oracle/docker-images/tree/master/OracleDatabase/SingleInstance
 Oracle Database on Docker
 This project offers sample Dockerfiles for:
 
