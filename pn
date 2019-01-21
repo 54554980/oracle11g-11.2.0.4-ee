@@ -1,0 +1,1 @@
+ps -aef | grep -v 'grep'| grep $1
